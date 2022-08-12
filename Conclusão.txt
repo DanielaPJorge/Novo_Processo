@@ -1,0 +1,25 @@
+	Conforme as análises realizadas, pode-se 
+chegar as seguintes conclusões: a queda 
+nas vendas se deu após o feriado de carnaval,
+que ocorreu em Fevereiro, época em que o 
+publico que detém o maior consumo de nosso 
+produto (conforme gráficos referenciados 
+“Perfil_Publico_Liso” e “Fat_Idade”, são 
+pessoas entre 25 e 35 anos) costuma viajar. 
+Também pudemos observar que a queda se deu na 
+quantidade de consumidores que efetuaram a 
+compra, porém o Ticket Médio sofreu uma leve 
+queda de 74 para 72 reais (olhar o gráfico 
+referenciado “Tkt_Médio_Liso”), impactando em 
+78,96% de queda no faturamento de Março 
+comparado com o mês de Fevereiro, sendo que 
+apenas na faixa de maior consumo, entre 25 e 
+35 anos tivemos a maior queda, 80%. Em 
+compensação, em Abril, ao recuperarmos o 
+faturamento, a faixa de maior consumo pulou 
+para 443,37%. Pudemos concluir também que o 
+público que consome os produtos para cabelos 
+lisos são responsáveis por 1/3 do faturamento 
+dos 4 primeiros meses de 2022 (de acordo com 
+os gráficos referenciados “Ranking_Tipo”, 
+“Fat_Tipo_Liso” e “Fat_Tipo_Liso_Porcentagem”). 
